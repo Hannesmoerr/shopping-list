@@ -1,4 +1,4 @@
-litschi 100
+litschi 150x
 äpfel
 kiwi
 birnen
